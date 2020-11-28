@@ -1,8 +1,10 @@
 ### Hi there 👋
-[![GitHub followers](https://img.shields.io/github/followers/pippi-sniper.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pippi-sniper?tab=followers)
-![Twitter Follow](https://img.shields.io/twitter/follow/pippi_sniper?style=social)
 [![pippi_sniper](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fpippi_sniper)](https://atcoder.jp/users/pippi_sniper)
 [![pippi_sniper](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fpippi_sniper)](https://codeforces.com/profile/pippi_sniper)
+
+[![GitHub followers](https://img.shields.io/github/followers/pippi-sniper.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pippi-sniper?tab=followers)
+![Twitter Follow](https://img.shields.io/twitter/follow/pippi_sniper?style=social)
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pippi-sniper&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pippi-sniper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
