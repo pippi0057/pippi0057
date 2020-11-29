@@ -5,7 +5,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/pippi-sniper.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pippi-sniper?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pippi_sniper?style=social)](https://twitter.com/pippi_sniper)
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pippi-sniper&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pippi-sniper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
